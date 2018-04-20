@@ -28,7 +28,7 @@ Project:
 ### Execution:
 
 1.  Put the files [project_initializer.R, DESCRIPTION, file_descriptions.csv]
-in any file with read/write privileges
+in any folder with read/write privileges
 
 2.  Run source("project_initializer.R") inside the project folder and
 start coding!
