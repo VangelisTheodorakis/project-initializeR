@@ -8,8 +8,6 @@ Just a try for some workflow/structure setup in order to cope with the
 lack of scaffolding tools in R for big projects.
 Description: 
 
-Just a try for some workflow/structure setup in order to cope with the
-lack of scaffolding tools in R for big projects.
 
 ---
 
