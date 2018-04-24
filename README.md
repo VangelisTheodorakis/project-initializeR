@@ -1,6 +1,6 @@
 # project-initializeR
 
-## Scaffolding for large R Projects
+## Scaffolding for large R Projects in Bioinformatics
 
 ### Description: 
 
