@@ -21,7 +21,7 @@ Project:
   
   * reports:    only files that can be shown to someone else in a proper form
   
-  * R:		all the R scripts, each one contating a prefilled description in comments
+  * src:		all the R scripts, each one contating a prefilled description in comments
 
 
     1. main.R: Sets the current working directory and calls the following scripts: initialize.R, load_data.R, pull_data_from_DB.R, build.R, analyze.R.
